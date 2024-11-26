@@ -1,19 +1,9 @@
+Hi! 👋 I'm Beatrice Akinpelu, a senior Computer Science major from Chicago, with a passion for cybersecurity and data analysis. Currently, I am focused on learning how to protect systems and data, finding insights through data exploration, and staying updated with the latest tech trends.
 
-Hi! 👋 I'm a senior Computer Science major from Chicago, passionate about cybersecurity and # data analysis.
+I enjoy tackling new languages and challenges, always eager to discover new technologies. I also love sharing knowledge and growing with others. Feel free to check out my projects and connect with me to chat about tech!
 
-My Current Focus
-Learning to protect systems and data.
 
-Finding insights through data exploration.
 
-Staying updated with tech trends.
 
-Interests
-Enjoy tackling new languages and challenges.
 
-Always eager to discover new technologies.
 
-Sharing knowledge and growing with others.
-
-Connect with Me!
-Check out my projects, and let's chat about tech!
