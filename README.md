@@ -1,5 +1,5 @@
 
-# Hi! 👋 I'm a senior Computer Science major from Chicago, passionate about cybersecurity and # data analysis.
+Hi! 👋 I'm a senior Computer Science major from Chicago, passionate about cybersecurity and # data analysis.
 
 My Current Focus
 Learning to protect systems and data.
